@@ -1,0 +1,42 @@
+const quizData = [
+  {
+    question: "What is the capital of India?",
+    a: "New Delhi",
+    b: "Mumbai",
+    c: "Chennai",
+    d: "Kolkata",
+    correct: "c",
+  },
+  {
+    question: "What is the most used programing language in 2019?",
+    a: "Java",
+    b: "C",
+    c: "Python",
+    d: "Javascript",
+    correct: "d",
+  },
+  {
+    question: "What is the most used framework in 2019?",
+    a: "React",
+    b: "Angular",
+    c: "Vue",
+    d: "Node",
+    correct: "a",
+  },
+  {
+    question: "What is the most used database in 2019?",
+    a: "MongoDB",
+    b: "MySQL",
+    c: "SQL",
+    d: "NoSQL",
+    correct: "b",
+  },
+  {
+    question: "What year does Javascript was released?",
+    a: "1995",
+    b: "1996",
+    c: "1997",
+    d: "1998",
+    correct: "c",
+  },
+];
